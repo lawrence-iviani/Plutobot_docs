@@ -1,3 +1,4 @@
 # lino_docs
 
-Documentation files for Linorobot.
+File and documentation contained in 
+https://github.com/lawrence-iviani/Plutobot/wiki 
